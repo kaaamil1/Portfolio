@@ -1,0 +1,105 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --sky-blue: ;
+}
+
+* {
+    font-family: "Sora", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 50px 0;
+}
+
+
+/* Hero Section */
+
+#hero-section {
+
+}
+
+
+/* About Section */
+
+#about-section {
+
+}
+
+
+/* Skills Section */
+
+#skills-section {
+
+}
+
+
+/* Projects Section */
+
+#projects-section {
+
+}
+
+
+/* Work History Section */
+
+#work-history-section {
+
+}
+
+
+/* Certifications Section */
+
+#certifications-section {
+
+}
+
+
+/* Contact Section */
+
+#contact-section {
+
+}
+
+
+
+/* Media Query */
+
+/* Extra large devices (large laptops and desktops, 1200px to 1366px) */
+
+@media screen and (max-width: 1366px) {
+    
+}
+
+
+/* Large devices (laptops/desktops, 992px to 1200px) */
+
+@media screen and (max-width: 1200px) {
+    
+}
+
+
+/* Medium devices (landscape tablets, 768px to 992px) */
+
+@media screen and (max-width: 992px) {
+    
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px to 768px) */
+
+@media screen and (max-width: 768px) {
+    
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+
+@media screen and (max-width: 600px) {
+    
+}
